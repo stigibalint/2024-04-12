@@ -1,0 +1,14 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D4A5-EC81
+
+ Directory of C:\Users\stiegelmayer.balint\Desktop\dinamikusprograming\Images
+
+[.]                            [..]
+Boy PNG 1.png                  Boy PNG 2.png
+Boy PNG 3.png                  Boy PNG 4.png
+Boy PNG 5.png                  Business PNG 1.png
+Business PNG 2.png             Business PNG 3.png
+Business PNG 4.png             Communication Icon PNG 3.png
+lista.txt                      
+              11 File(s)     18ÿ342ÿ742 bytes
+               2 Dir(s)  279ÿ157ÿ649ÿ408 bytes free
